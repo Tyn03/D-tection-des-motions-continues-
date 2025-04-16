@@ -1,0 +1,50 @@
+{
+    "emotions": {
+        "Surprise": {
+            "count": 14,
+            "duration": 0,
+            "last_detected": "2025-04-15T16:32:38.789462",
+            "average_valence": 0.24141428571428572,
+            "average_arousal": 0.6009571428571429
+        },
+        "Happy": {
+            "count": 35,
+            "duration": 0,
+            "last_detected": "2025-04-15T16:32:59.325776",
+            "average_valence": 0.4584371428571429,
+            "average_arousal": 0.4448085714285714
+        },
+        "Anger": {
+            "count": 1,
+            "duration": 0,
+            "last_detected": "2025-04-15T15:11:45.833228",
+            "average_valence": -0.0948,
+            "average_arousal": 0.0869
+        },
+        "Neutral": {
+            "count": 1,
+            "duration": 0,
+            "last_detected": "2025-04-15T15:11:55.968379",
+            "average_valence": 0.032,
+            "average_arousal": 0.217
+        },
+        "Fear": {
+            "count": 10,
+            "duration": 0,
+            "last_detected": "2025-04-15T16:26:00.647155",
+            "average_valence": -0.05230000000000001,
+            "average_arousal": 0.49919
+        },
+        "Angry": {
+            "count": 4,
+            "duration": 0,
+            "last_detected": "2025-04-15T16:31:52.074412",
+            "average_valence": -0.19999999999999998,
+            "average_arousal": 0.5475
+        }
+    },
+    "metadata": {
+        "last_updated": "2025-04-15T16:32:59.325776",
+        "version": "1.0"
+    }
+}
